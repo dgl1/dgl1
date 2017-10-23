@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Yrsa:300,400,500,600,700');
 
-body {font-family: Yrsa, serif;}
+body {
+  font: 100% Yrsa, serif;
+  color: #333;
+}
 
 // Add any custom CSS (or Sass, including imports) you'd like immediately after the @import line
