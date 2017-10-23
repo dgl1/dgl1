@@ -2,15 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
-@import url(https://fonts.googleapis.com/css?family=Yrsa);
-
-body {font-family: Yrsa, serif;}
+body {font-family: Titillium+Web, sans-serif;}
 
 // Add any custom CSS (or Sass, including imports) you'd like immediately after the @import line
 
 
-
+// @import url(https://fonts.googleapis.com/css?family=Yrsa);
 
 
 
