@@ -1,5 +1,21 @@
 ## Welcome
 
+I am a reader in philosophy at University College London. I work on practical philosophy.
+
++ contact
+  - appointments
+  - office
+  - email
++ research
++ teaching
++ cv
++ operationformlessfogtopsecret
+
+<!-- -   [About](http://www.douglaslavin.org)
+-   [Teaching](http://www.douglaslavin.org/research)
+-   [Research](http://www.douglaslavin.org/teaching) -->
+
+## Hallo
 You really can use the [editor on GitHub](https://github.com/dgl1/dgl1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
