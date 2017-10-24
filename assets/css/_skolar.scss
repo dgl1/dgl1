@@ -1,0 +1,41 @@
+@font-face {
+	font-family:'Skolar';
+	src: url('/assets/fonts/skolar.eot');
+	src: url('/assets/fonts/skolar.eot?#iefix') format('embedded-opentype'),
+		url('/assets/fonts/skolar.woff') format('woff'),
+		url('/assets/fonts/skolar.ttf') format('truetype'),
+		url('/assets/fonts/skolar.otf') format('opentype'),
+		url('/assets/fonts/skolar.svg#skolar') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
+
+@font-face {
+	font-family:'Skolar';
+	src: url('/assets/fonts/skolarb.eot');
+	src: url('/assets/fonts/skolarb.eot?#iefix') format('embedded-opentype'),
+		url('/assets/fonts/skolarb.woff') format('woff'),
+		url('/assets/fonts/skolarb.ttf') format('truetype'),
+		url('/assets/fonts/skolarb.otf') format('opentype'),
+		url('/assets/fonts/skolarb.svg#skolarb') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
+
+@font-face {
+	font-family:'Skolar';
+	src: url('/assets/fonts/skolari.eot');
+	src: url('/assets/fonts/skolari.eot?#iefix') format('embedded-opentype'),
+		url('/assets/fonts/skolari.woff') format('woff'),
+		url('/assets/fonts/skolari.ttf') format('truetype'),
+		url('/assets/fonts/skolari.otf') format('opentype'),
+		url('/assets/fonts/skolari.svg#skolari') format('svg');
+	font-weight: 250;
+	font-style: italic;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
