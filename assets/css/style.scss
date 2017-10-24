@@ -2,4 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-@import url("assets/css/_skolar.scss");
+@import "fonts";
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 "Skolar", "Noto Serif", "Alegreya", serif;
+  color:#727272;
+  font-weight:400;
+}
