@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a reader in philosophy at University College London. I work on practical philosophy.
+I am Reader in philosophy at University College London where I work on practical philosophy.
 
 + contact
   - appointments
