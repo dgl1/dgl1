@@ -1,0 +1,12 @@
+/* Webfont: abcAllegraW00-BlackItalic */@font-face {
+    font-family: 'abcAllegraW00-BlackItalic';
+    src: url('abcAllegraW00-BlackItalic.eot'); /* IE9 Compat Modes */
+    src: url('abcAllegraW00-BlackItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abcAllegraW00-BlackItalic.woff') format('woff'), /* Modern Browsers */
+         url('abcAllegraW00-BlackItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abcAllegraW00-BlackItalic.svg#abcAllegraW00-BlackItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
