@@ -1,41 +1,47 @@
 @font-face {
-	font-family:'Skolar';
-	src: url('/assets/fonts/skolar.eot');
-	src: url('/assets/fonts/skolar.eot?#iefix') format('embedded-opentype'),
-		url('/assets/fonts/skolar.woff') format('woff'),
-		url('/assets/fonts/skolar.ttf') format('truetype'),
-		url('/assets/fonts/skolar.otf') format('opentype'),
-		url('/assets/fonts/skolar.svg#skolar') format('svg');
-	font-weight: 400;
-	font-style: normal;
-	font-stretch: normal;
-	unicode-range: U+000D-FB04;
+    font-family: 'abcAllegra';
+    src: url('abcAllegra-Regular.eot'); /* IE9 Compat Modes */
+    src: url('abcAllegra-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abcAllegra-Regular.woff') format('woff'), /* Modern Browsers */
+         url('abcAllegra-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abcAllegra-Regular.svg#abcAllegra-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
 }
 
 @font-face {
-	font-family:'Skolar';
-	src: url('/assets/fonts/skolarb.eot');
-	src: url('/assets/fonts/skolarb.eot?#iefix') format('embedded-opentype'),
-		url('/assets/fonts/skolarb.woff') format('woff'),
-		url('/assets/fonts/skolarb.ttf') format('truetype'),
-		url('/assets/fonts/skolarb.otf') format('opentype'),
-		url('/assets/fonts/skolarb.svg#skolarb') format('svg');
-	font-weight: 700;
-	font-style: normal;
-	font-stretch: normal;
-	unicode-range: U+000D-FB04;
+    font-family: 'abcAllegra';
+    src: url('abcAllegra-Italic.eot'); /* IE9 Compat Modes */
+    src: url('abcAllegra-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abcAllegra-Italic.woff') format('woff'), /* Modern Browsers */
+         url('abcAllegra-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abcAllegra-Italic.svg#abcAllegra-Italic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
 }
 
 @font-face {
-	font-family:'Skolar';
-	src: url('/assets/fonts/skolari.eot');
-	src: url('/assets/fonts/skolari.eot?#iefix') format('embedded-opentype'),
-		url('/assets/fonts/skolari.woff') format('woff'),
-		url('/assets/fonts/skolari.ttf') format('truetype'),
-		url('/assets/fonts/skolari.otf') format('opentype'),
-		url('/assets/fonts/skolari.svg#skolari') format('svg');
-	font-weight: 400;
-	font-style: italic;
-	font-stretch: normal;
-	unicode-range: U+000D-FB04;
+    font-family: 'abcAllegra';
+    src: url('abcAllegra-Bold.eot'); /* IE9 Compat Modes */
+    src: url('abcAllegra-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abcAllegra-Bold.woff') format('woff'), /* Modern Browsers */
+         url('abcAllegra-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abcAllegra-Bold.svg#abcAllegra-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'abcAllegra';
+    src: url('abcAllegra-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('abcAllegra-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abcAllegra-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('abcAllegra-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abcAllegra-BoldItalic.svg#abcAllegra-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
 }
