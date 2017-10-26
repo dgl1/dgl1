@@ -1,17 +1,17 @@
 ## Welcome
 
-I am Reader in philosophy at University College London where I work on practical philosophy.
+I work on ethics, action theory and the history of ethics at University College London where I am Reader in Philosophy. Before coming to UCL I taught at Harvard University and the University of Leipzig as a Humbold Fellow.
 
 + contact
-  - appointments
-  - office
-  - email
+  - [appointments]()
+  - [office]()
+  - email – best not to
 + research
 + teaching
 + cv
 + operationformlessfogtopsecret
 
-<!-- -   [About](http://www.douglaslavin.org)
+<!-- - [About](http://www.douglaslavin.org)
 -   [Teaching](http://www.douglaslavin.org/research)
 -   [Research](http://www.douglaslavin.org/teaching) -->
 

@@ -4,12 +4,22 @@
 @import "{{ site.theme }}";
 @import "fonts";
 
-  * {
-    font-family: 'abcAllegra', 'Noto Sans', 'Lato', sans-serif;
-    font-size: 14px;
-    line-height:16px;
-    color:black;
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 'abcAllegra', 'Noto Sans', 'Lato', sans-serif;
+  color:#000000;
+  font-weight:400;
 }
+
+
+// * {
+//   font-family: 'abcAllegra', 'Noto Sans', 'Lato', sans-serif;
+//   font-size: 14px;
+//   line-height:16px;
+//   color:black;
+// }
 
 // 
 // body {
