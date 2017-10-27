@@ -1,0 +1,12 @@
+/* Webfont: FaktPro-BoldItalic */@font-face {
+    font-family: 'FaktProBd';
+    src: url('FaktPro-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('FaktPro-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('FaktPro-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('FaktPro-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('FaktPro-BoldItalic.svg#FaktPro-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

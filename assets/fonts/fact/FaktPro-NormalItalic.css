@@ -1,0 +1,12 @@
+/* Webfont: FaktPro-NormalItalic */@font-face {
+    font-family: 'FaktProNor';
+    src: url('FaktPro-NormalItalic.eot'); /* IE9 Compat Modes */
+    src: url('FaktPro-NormalItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('FaktPro-NormalItalic.woff') format('woff'), /* Modern Browsers */
+         url('FaktPro-NormalItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('FaktPro-NormalItalic.svg#FaktPro-NormalItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

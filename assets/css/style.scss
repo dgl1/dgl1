@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 @import "fonts";
 
-
 body {
   background-color: #fff;
   padding:50px;
-  font: 16px/1.5 -apple-system, 'abcAllegra', 'Noto Sans', 'Lato', sans-serif;
+  font: 16px 'FaktPro', 'abcAllegra', 'Noto Sans', 'Lato', sans-serif;
+  line-height: normal;
   color:#000000;
   font-weight:400;
 }
