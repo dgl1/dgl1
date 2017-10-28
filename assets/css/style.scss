@@ -2,19 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
-@import "fonts";
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,400i,700,700i');
+
 
 body {
   background-color: #ffffff;
   padding:50px;
-  font-family: 'Skolar', serif;
-  font-size: 16px/1.5;
+  font: 14px/1.5 'Fira Sans', sans-serif;
   color:#000000;
-  font-weight:400;
 }
 
 code, pre {
-  font-family: 'SkolarSansPro', Consolas, sans-serif;
+  font-family: 'Fira Mono', monospace;
   color:#333;
   font-size:12px;
 }
