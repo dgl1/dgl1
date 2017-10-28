@@ -1,0 +1,12 @@
+/* Webfont: SkolarSansPro-Bold */@font-face {
+    font-family: 'SkolarSansPro';
+    src: url('SkolarSansPro-Bold.eot'); /* IE9 Compat Modes */
+    src: url('SkolarSansPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('SkolarSansPro-Bold.woff') format('woff'), /* Modern Browsers */
+         url('SkolarSansPro-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('SkolarSansPro-Bold.svg#SkolarSansPro-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

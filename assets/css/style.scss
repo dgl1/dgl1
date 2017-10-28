@@ -7,10 +7,18 @@
 body {
   background-color: #ffffff;
   padding:50px;
-  font: 16px/1.5 'Skolar', serif;
+  font-family: 'Skolar', serif;
+  font-size: 16px/1.5;
   color:#000000;
   font-weight:400;
 }
+
+code, pre {
+  font-family: 'SkolarSansPro', Consolas, sans-serif;
+  color:#333;
+  font-size:12px;
+}
+
 
 
 // * {

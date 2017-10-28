@@ -1,0 +1,12 @@
+/* Webfont: SkolarSansPro-Roman */@font-face {
+    font-family: 'SkolarSansProRoman';
+    src: url('SkolarSansPro-Roman.eot'); /* IE9 Compat Modes */
+    src: url('SkolarSansPro-Roman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('SkolarSansPro-Roman.woff') format('woff'), /* Modern Browsers */
+         url('SkolarSansPro-Roman.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('SkolarSansPro-Roman.svg#SkolarSansPro-Roman') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
