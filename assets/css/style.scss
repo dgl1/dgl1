@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,400i,500,500i');
 
 
 body {
@@ -26,7 +26,6 @@ code, pre {
 //   line-height:16px;
 //   color:black;
 // }
-
 // 
 // body {
 //   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
