@@ -1,15 +1,14 @@
 ## Welcome
 
-I work on ethics, action theory and the history of ethics at University College London where I am Reader in Philosophy. Before coming to UCL I taught at Harvard University and the University of Leipzig as a Humbold Fellow.
+I am Reader in Philosophy at University College London. I work in practical philosophy, especially ethics, history of ethics and action theory. Before coming to UCL, I was the John L. Loeb Associate Professor of Humanities at Harvard University and an Alexander von Humboldt Fellow at the University of Leipzig.
 
 + contact
   - [appointments]()
   - [office]()
-  - email – best not to
+  - email
 + research
 + teaching
 + cv
-+ operationformlessfogtopsecret
 
 <!-- - [About](http://www.douglaslavin.org)
 -   [Teaching](http://www.douglaslavin.org/research)
