@@ -2,13 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-
-/* @import url("fonts/_Allegra.css"); */
+@import url("fonts/allegra.css");
 
 * {
-	font-family: 'Verdana', 'Lato', 'Tahoma', 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', 'Calibri', sans-serif;
-  /* 'Verdana', 'Tahoma', 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', 'Calibri', */
-	/* font-family: 'Allegra-2_Regular'; */
+	font-family: 'abcAllegra','Verdana', 'Lucida Sans', sans-serif;
 	font-size:11px;
 	line-height:16px;
 	color:black;
