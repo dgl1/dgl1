@@ -44,155 +44,155 @@ ul {
 	list-style-type:none;
 	margin:0px;
 	padding:0px;
-}
-/*———————————————————————————————————————————————————— */
-#header {
-	position:absolute;
-	width:600px;
-	left:275px;
-	top:50px;
-}
-#header a { background-image: url('/images/douglaslavin.jpg'); background-repeat: no-repeat; width: 150px; height:20px; display: block; background-size:100%;
-}
-
-/*———————————————————————————————————————————————————— */
-#wrap {
-	position:absolute;
-	width: 600px;
-	left:275px;
-	top:112px;
-	clear:both;
-	padding-bottom:100px;
-}
-
-#content {
-	border-top:1px solid red;
-	padding-top:16px;
-}
-.archive #content {padding-top:16px;	 }
-.home #content {padding-top:22px;	 }
-.single #content {padding-top:16px;	 }
-
-
-#content h2 {
-	margin:0px;
-}
-#content h2 a {
-	font-size:14px;
-}
-#content h3 {
-	margin:0px;
-	margin-top:12px;
-}
-#content .date {
-	font-size:9px;
-	margin-bottom:8px;
-	color:gainsboro;
-	margin-top:2px;
-}
-.wp-caption { margin-top:14px;}
-.wp-caption-text { font-size:9px; color:gainsboro; line-height:14px; margin-top:4px; }
-
-/* Overview Type Specimen PDF Buy this font */
-#content h3 { margin: 0;	margin-bottom:8px; }
-#content h3 a { font-weight: normal; 	border-bottom:1px solid gainsboro; margin-right: 10px;   }
-#content h3 a:hover { 	border-bottom:1px solid red; }
-
-/* Flyerlink nach den Schnitten */
-#content h4 { margin: 0; margin-top: 30px; padding-left: 21px; }
-#content h4 a { font-weight: normal;  border-bottom:none;   }
-
-#content h5 { margin: 0; margin-top: 30px;  padding-left: 8px; }
-#content h5 a { font-weight: normal;  border-bottom:none;  }
-#content h5 a img { border:1px solid #eeeeee;  }  
-
-
-
-/* Übersichten */
-#content ul li a { border-bottom:none; }
-#content ul li img { border-bottom:1px solid gainsboro;}
-#content ul li a img:hover { border-bottom:1px solid red; }
-
-/* Startseite */
-.home #content ul li a img, .home #content ul li a img:hover { border:none; }
-
-
-
-
-.meta {
-	margin-top:16px;
-}
-.meta * {
-	font-size:9px;
-	color:gainsboro;
-	line-height:14px;
-}
-.meta p {
-	margin:0px;
-}
-.pages {
-	border-top:1px solid red;
-	padding-top:16px;
-	margin-top:12px;
-	font-size:9px;
-	} 
-/*———————————————————————————————————————————————————— */
-#Navigation {
-	position:fixed;
-	left:50px;
-	top:112px;
-	border-top:1px solid red;
-	padding-top:16px;
-	width:175px;
-}
-#Navigation * {
-	color:gray;
-}
-#Navigation ul {
-	list-style-type:none;
-	margin:0px;
-	padding:0px;
-}
-#Navigation ul li {
-}
-#Navigation h2 {
-	margin:0px;
-	margin-top:9px;
-}
-#Navigation h3 {
-	margin:0px;
-	margin-top:18px;
-	font-weight:normal;
-	color:black;
-}
-/*———————————————————————————————————————————————————— */
-input.comment { 
-}
-textarea, input.comment {
-	width:600px;
-	background-color:#fdfdfd;
-	border:1px solid red;
-	padding:0px 0px 0px 0px;
-}
-input#s {
-	background-color:#fdfdfd;
-	border:1px solid red;
-	margin-top:5px;
-	text-align:left;
-	padding:0px;
-	width:125px; height:25px; 
-}
-textarea:focus, input.comment:focus, input#s:focus {
-	background-image:none;
-	}.postinput p { 	
-	margin-top:8px; margin-bottom:0px;
-	}
-.postinput p label { 	
-		color:gainsboro; font-size:9px;
-}
-/*———————————————————————————————————————————————————— */
-
-
+// }
+// /*———————————————————————————————————————————————————— */
+// #header {
+// 	position:absolute;
+// 	width:600px;
+// 	left:275px;
+// 	top:50px;
+// }
+// #header a { background-image: url('/images/douglaslavin.jpg'); background-repeat: no-repeat; width: 150px; height:20px; display: block; background-size:100%;
+// }
+// 
+// /*———————————————————————————————————————————————————— */
+// #wrap {
+// 	position:absolute;
+// 	width: 600px;
+// 	left:275px;
+// 	top:112px;
+// 	clear:both;
+// 	padding-bottom:100px;
+// }
+// 
+// #content {
+// 	border-top:1px solid red;
+// 	padding-top:16px;
+// }
+// .archive #content {padding-top:16px;	 }
+// .home #content {padding-top:22px;	 }
+// .single #content {padding-top:16px;	 }
+// 
+// 
+// #content h2 {
+// 	margin:0px;
+// }
+// #content h2 a {
+// 	font-size:14px;
+// }
+// #content h3 {
+// 	margin:0px;
+// 	margin-top:12px;
+// }
+// #content .date {
+// 	font-size:9px;
+// 	margin-bottom:8px;
+// 	color:gainsboro;
+// 	margin-top:2px;
+// }
+// .wp-caption { margin-top:14px;}
+// .wp-caption-text { font-size:9px; color:gainsboro; line-height:14px; margin-top:4px; }
+// 
+// /* Overview Type Specimen PDF Buy this font */
+// #content h3 { margin: 0;	margin-bottom:8px; }
+// #content h3 a { font-weight: normal; 	border-bottom:1px solid gainsboro; margin-right: 10px;   }
+// #content h3 a:hover { 	border-bottom:1px solid red; }
+// 
+// /* Flyerlink nach den Schnitten */
+// #content h4 { margin: 0; margin-top: 30px; padding-left: 21px; }
+// #content h4 a { font-weight: normal;  border-bottom:none;   }
+// 
+// #content h5 { margin: 0; margin-top: 30px;  padding-left: 8px; }
+// #content h5 a { font-weight: normal;  border-bottom:none;  }
+// #content h5 a img { border:1px solid #eeeeee;  }  
+// 
+// 
+// 
+// /* Übersichten */
+// #content ul li a { border-bottom:none; }
+// #content ul li img { border-bottom:1px solid gainsboro;}
+// #content ul li a img:hover { border-bottom:1px solid red; }
+// 
+// /* Startseite */
+// .home #content ul li a img, .home #content ul li a img:hover { border:none; }
+// 
+// 
+// 
+// 
+// .meta {
+// 	margin-top:16px;
+// }
+// .meta * {
+// 	font-size:9px;
+// 	color:gainsboro;
+// 	line-height:14px;
+// }
+// .meta p {
+// 	margin:0px;
+// }
+// .pages {
+// 	border-top:1px solid red;
+// 	padding-top:16px;
+// 	margin-top:12px;
+// 	font-size:9px;
+// 	} 
+// /*———————————————————————————————————————————————————— */
+// #Navigation {
+// 	position:fixed;
+// 	left:50px;
+// 	top:112px;
+// 	border-top:1px solid red;
+// 	padding-top:16px;
+// 	width:175px;
+// }
+// #Navigation * {
+// 	color:gray;
+// }
+// #Navigation ul {
+// 	list-style-type:none;
+// 	margin:0px;
+// 	padding:0px;
+// }
+// #Navigation ul li {
+// }
+// #Navigation h2 {
+// 	margin:0px;
+// 	margin-top:9px;
+// }
+// #Navigation h3 {
+// 	margin:0px;
+// 	margin-top:18px;
+// 	font-weight:normal;
+// 	color:black;
+// }
+// /*———————————————————————————————————————————————————— */
+// input.comment { 
+// }
+// textarea, input.comment {
+// 	width:600px;
+// 	background-color:#fdfdfd;
+// 	border:1px solid red;
+// 	padding:0px 0px 0px 0px;
+// }
+// input#s {
+// 	background-color:#fdfdfd;
+// 	border:1px solid red;
+// 	margin-top:5px;
+// 	text-align:left;
+// 	padding:0px;
+// 	width:125px; height:25px; 
+// }
+// textarea:focus, input.comment:focus, input#s:focus {
+// 	background-image:none;
+// 	}.postinput p { 	
+// 	margin-top:8px; margin-bottom:0px;
+// 	}
+// .postinput p label { 	
+// 		color:gainsboro; font-size:9px;
+// }
+// /*———————————————————————————————————————————————————— */
+// 
+// 
 
 
 // @import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,400i,500,500i');

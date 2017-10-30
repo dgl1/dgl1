@@ -1,26 +1,16 @@
-## Welcome
+I am Reader in Philosophy at University College London. I work in practical philosophy, especially ethics, history of ethics and action theory. Before coming to UCL, I was John L. Loeb Associate Professor of Humanities at Harvard University.
 
-I am Reader in Philosophy at University College London. I work in practical philosophy, especially ethics, history of ethics and action theory. Before coming to UCL, I was the John L. Loeb Associate Professor of Humanities at Harvard University and an Alexander von Humboldt Fellow at the University of Leipzig.
+- Contact
+  + Office [map](http://www.ucl.ac.uk/maps/33-35-torrington-place)
+  + Appointment calendar   
+    * regular office hours [link](http://www.supersaas.com/schedule/DouglasLavin/OfficeHoursUCL)
+    * supervision [link](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+  + email (d.lavin@ucl.ac.uk)
+- Research
+- Teaching
 
-+ contact
-  - [appointments]()
-  - [office]()
-  - email
-+ research
-+ teaching
-+ cv
-
-<!-- - [About](http://www.douglaslavin.org)
--   [Teaching](http://www.douglaslavin.org/research)
--   [Research](http://www.douglaslavin.org/teaching) -->
-
-## Hallo
-You really can use the [editor on GitHub](https://github.com/dgl1/dgl1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -40,13 +30,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dgl1/dgl1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
