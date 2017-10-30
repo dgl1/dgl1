@@ -2,13 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
-@import url("fonts/allegra.css");
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
+
+// 
+// <style>
+// @import url('https://fonts.googleapis.com/css?family=Yrsa:400,500,600');
+// </style>
+// @import url("fonts/allegra.css");
+
 
 * {
-	font-family: 'abcAllegra','Verdana', 'Lucida Sans', sans-serif;
+	font-family: 'Lato', 'Noto Sans', 'Lucida Sans', sans-serif;
 	font-size:16px;
 	line-height:1.5;
 	color:black;
+	
 }
 body {
 	background:white;
