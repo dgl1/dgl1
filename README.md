@@ -2,10 +2,10 @@ I am Reader in Philosophy at University College London. I work in practical phil
 
 - Contact
   + Office [map](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-  + Appointment calendar   
-    * regular office hours [link](http://www.supersaas.com/schedule/DouglasLavin/OfficeHoursUCL)
-    * supervision [link](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
-  + email (d.lavin@ucl.ac.uk)
+  + Appointments    
+    * office hours calendar [link](http://www.supersaas.com/schedule/DouglasLavin/OfficeHoursUCL)
+    * supervision calendar [link](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+  + [email](d.lavin@ucl.ac.uk)
 - Research
 - Teaching
 
