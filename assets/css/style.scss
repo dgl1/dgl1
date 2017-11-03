@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 @import url(https://fonts.googleapis.com/css?family=Lato:400italic,700italic,400,700);
 
 body {
@@ -11,3 +11,5 @@ body {
   color:#424242;
   font-weight:400;
 }
+
+// @import "jekyll-theme-minimal";
