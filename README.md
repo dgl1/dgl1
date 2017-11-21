@@ -1,15 +1,15 @@
 
-I am Reader in Philosophy at University College London. I work in practical philosophy, especially ethics, history of ethics and action theory.
+I am Reader in Philosophy at University College London [\phi](https://www.ucl.ac.uk/philosophy/). I work in practical philosophy, especially ethics, history of ethics and action theory.
 
 ### Contact
 
-  + My office is room 3.4a, 33-35 Torrington Place [map](http://www.ucl.ac.uk/maps/33-35-torrington-place)
+  + My office is room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
   + Drop by my regular office hours or schedule an appointment with relevant calendar below
     * Office hours Wednesday, 1600-1700 (drop by)
     * Additional office hours Monday, 1500-1715
-    [link](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL)
-    * Supervision, term 1 2017 [link](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
-  + Please use [email](d.lavin@ucl.ac.uk) *only* if all else has failed. Look here: [Email is destroying us all...](http://www.emailcharter.org/). And look here: [it really is](http://two.sentenc.es/).
+    [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL)
+    * Supervisions, term 1 2017 [(calendar)](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+  + Please use [email](d.lavin@ucl.ac.uk) *only* if all else has failed. Email is destroying us all...look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/).
 
 ### Research
 
