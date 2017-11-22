@@ -1,5 +1,7 @@
 
-I am Reader in Philosophy at University College London [\phi](https://www.ucl.ac.uk/philosophy/). I work in practical philosophy, especially ethics, history of ethics and action theory.
+### About
+
+I am Reader in Philosophy at University College London [(&phi;)](https://www.ucl.ac.uk/philosophy/). I work in practical philosophy, especially ethics, history of ethics and action theory.
 
 ### Contact
 
