@@ -15,8 +15,8 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 ### Research
 
-  + Some papers to appear here
-  + A cv to appear here
+  + papers to appear here
+  + cv to appear here
 
 ### Teaching
 
