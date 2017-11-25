@@ -22,5 +22,6 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 In term 1 of 2017-18 I teach moral psychology (3097) and a seminar in action theory (G019). In term 2 I teach ethics (2047) and a seminar on practical reason (G097).
 
+~
 
 <!-- [Link](url) and ![Image](src) -->
