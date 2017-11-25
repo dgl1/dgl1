@@ -2,17 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
+//@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
 
-
-//@import url('https://fonts.googleapis.com/css?family=Yrsa:400,500,600');
-
-// @import url('https://fonts.googleapis.com/css?family=Zilla+Slab:400,400i,500,500i,600,600i');
 
 body {
   background-color:#f7f7f5;
   padding:50px;
-  font-family: 14px/1.5 'Lato', sans-serif;
+  font-family: 'Lato', Arial, sans-serif;
   color:#424242;
   font-weight: normal;
 }
@@ -33,92 +29,3 @@ a:hover {
   border-bottom:1px solid red;
 }
 
-
-//font-family: 'Yrsa', serif;
-//"Lato", sans-serif;
-//font-family: 'Zilla Slab', serif;
-//@import url(https://fonts.googleapis.com/css?family=Lato:400italic,700italic,400,700);
-// @import url(https://fonts.googleapis.com/css?family=Yrsa:400,500,600);
-
-
-// 
-// 
-// a {
-//     color:#000;
-//     cursor: pointer;
-//     text-decoration: none;
-//     background-image: linear-gradient(to bottom,transparent 50%,#bcbcbc 50%);
-//     background-repeat: repeat-x;
-//     background-size: 2px 2px;
-//     background-position: 0 100%;
-// }
-// 
-// a:hover {
-//     color:#e4001c;
-//     font-weight:400;
-// }
-
-// 
-// 
-// orderist
-// 
-// a {
-//   color:#424242;
-//   text-decoration:underline;
-// }
-// 
-// a:hover {
-//   color:#069;
-// }
-// 
-// a small {
-//   font-size:11px;
-//   color:#777;
-//   margin-top:-0.3em;
-//   display:block;
-// }
-// 
-// a:hover small {
-//   color:#777;
-// }
-// 
-// 
-// 
-// abcliter
-// 
-// a {
-// 	color: #000000;
-// 	text-decoration: none;
-// 	border-bottom:1px solid gainsboro;
-// }
-// a:hover {
-// 	border-bottom:1px solid red;
-// }
-
-
-// 
-// bittner
-// 
-//   a:link {
-//   	color: #000000;
-//   	text-decoration: none;
-//   }
-//   a:visited {
-//   	color: #000000;
-//   	text-decoration: none;
-//   }
-//   a:hover {
-//   	color: #000000;
-//   	text-decoration: none;
-//   	padding-bottom: 1px;
-//   	background-color: #ffb1b1;
-//   	border-bottom-width: 0px;
-//   	border-bottom-style: none;
-//   	border-bottom-color: #fff800;
-//   }
-//   a:active {
-//   	color: #FFFFFF;
-//   	text-decoration: none;
-//   	position: fixed;
-//   	font-family: Helvetica, Arial, sans-serif;
-//   }
