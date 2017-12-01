@@ -11,7 +11,7 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
     * Additional office hours (for 3097 & G019) Monday, 1500-1715
     [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL)
     * Supervisions, term 1 2017 [(calendar)](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
-  + Please use [email](d.lavin@ucl.ac.uk) *only* if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/).
+  + Please use email <d.lavin@ucl.ac.uk> *only* if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/).
 
 ### Research
 
