@@ -6,7 +6,7 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 ### Contact
 
   + My office is room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-  + Drop by regular office hours or schedule an appointment with relevant calendar below
+  + Drop by regular office hours or schedule an appointment with the relevant calendar below
     * Office hours Wednesday, 1600-1700 (drop by)
     * Additional office hours (for 3097 & G019) Monday, 1500-1715
     [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL)
@@ -16,7 +16,7 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 ### Research
 
   + some papers available [here](https://ucl.academia.edu/DouglasLavin)
-  + cv to appear here
+  + cv to appear
 
 ### Teaching
 
