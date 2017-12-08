@@ -3,7 +3,7 @@
 
 I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) at University College London. I work in practical philosophy, especially ethics, history of ethics and action theory.
 
-### Contact
+### Contact 
 
   + My office is room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
   + Drop by regular office hours or schedule an appointment with the relevant calendar below
