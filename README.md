@@ -1,7 +1,7 @@
 
 ### About
 
-I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) at University College London where I have taught since 2015. Before coming to UCL, I was the John L. Loeb Associate Professor of the Humanities at Harvard University. I earned my PhD in philosophy at the University of Pittsburgh. I work in practical philosophy, especially ethics, history of ethics and action theory.
+I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) at University College London where I have taught since 2015. Before coming to UCL, I was John L. Loeb Associate Professor of the Humanities at Harvard University. I earned my PhD in philosophy at the University of Pittsburgh. I work in practical philosophy, especially ethics, history of ethics and action theory.
 
 
 ### Contact 
@@ -19,6 +19,10 @@ I am a reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
   + some papers available [here](https://ucl.academia.edu/DouglasLavin)
   + cv to appear
+
+
+<!-- would be good to have bib references and links to published papers here or maybe i could just have an abbreviated html cv -->
+
 
 ### Teaching
 
