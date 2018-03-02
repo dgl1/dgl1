@@ -8,7 +8,7 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
   - Office is room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
     + Office hours for term 2 2017-18: Tuesdays 1800-1900.
-      * Office hours have been changed from Tuesdays at 1600 to 1800.)<sub><small>March 01</small></sub>
+      * Office hours have been changed from 1600 to 1800 on Tuesdays.)<sub><small>March 01</small></sub>
     <!-- * Additional office hours (for 3097 & G019) Monday, 1500-1715
     [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) --> 
     + Supervisions for term 2 2017-18: schedule an appointment with this online calendar [(link)](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
