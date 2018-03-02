@@ -31,5 +31,8 @@ In term 2 of 2017-18 I am teaching ethics (2047) and a graduate seminar on recen
 
 <!-- In term 1 of 2017-18 I teach moral psychology (3097) and a seminar in action theory (G019). In term 2 I teach ethics (2047) and a seminar on practical reason (G097). -->
 
+<!--  Leipzig/UCL Workshop 2018 -->
 
 <!-- [Link](url) and ![Image](src) -->
+
+
