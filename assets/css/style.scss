@@ -1,14 +1,14 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600,600i);
 @import "{{ site.theme }}";
+@import url(//fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600);
 
 
 body {
+  font-family: 'IBM Plex Sans', sans-serif;
   background-color:#f7f7f5;
   padding:50px;
-  font-family: 'IBM Plex Sans', sans-serif; //font-family: 'Lato', sans-serif;
   color:#424242;
   font-weight: normal;
 }
