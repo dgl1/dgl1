@@ -1,12 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-@import url(//fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,500);
+@import "jekyll-theme-minimal";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:400,400i,500');
 
 
 body {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
   background-color:#f7f7f5;
   padding:50px;
   color:#424242;
@@ -27,4 +27,3 @@ a:hover {
   text-decoration:none;
   border-bottom:1px solid red;
 }
-
