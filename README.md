@@ -10,9 +10,9 @@ Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://ww
 
 Office hours for term 3: Wednesday 1500-1600
 
-Schedule a supervision [<i class="far fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+Schedule a graduate supervision meeting [<i class="far fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
 
-Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter, you can telephone or better sms at <a href="tel:+7514822013"><i class="fas fa-mobile-alt"></i></a>
+Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter, you can telephone or better send an sms. <a href="tel:+7514822013"><i class="fas fa-mobile-alt"></i></a>
 
 
 ### Research
