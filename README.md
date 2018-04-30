@@ -10,7 +10,7 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
   - Office hours (term 3, 2017-18): Wednesday 1500-1600
 
-  - Supervisions: schedule an appointment <i class="fas fa-calendar"></i> [<i class="fas fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+  - Supervisions: schedule an appointment [<i class="fas fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
 
     <!-- + * Additional office hours (for 2047 & G097) Monday, 1500-1700
         [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) --> 
