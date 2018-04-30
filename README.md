@@ -8,7 +8,7 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 [<i class="far fa-compass"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place) Room 3.4a, 33-35 Torrington Place
 
-[<i class="fas fa-clock"></i>]() Wednesday 1500-1600 (term 3, 2017-18)
+[<i class="far fa-clock"></i>]() Wednesday 1500-1600 (term 3, 2017-18)
 
 [<i class="fas fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL) Schedule a supervision. 
   
