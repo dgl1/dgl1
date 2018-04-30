@@ -8,19 +8,16 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 [<i class="far fa-compass"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place) Room 3.4a, 33-35 Torrington Place
 
-<i class="fas fa-clock"></i> Wednesday 1500-1600 (term 3, 2017-18): 
+[<i class="fas fa-clock"></i>]() Wednesday 1500-1600 (term 3, 2017-18)
 
-Supervisions: schedule an appointment [<i class="fas fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
-
-    <!-- + * Additional office hours (for 2047 & G097) Monday, 1500-1700
-        [(calendar)](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) --> 
+[<i class="fas fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL) Schedule a supervision. 
   
-Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter you can try by by phone(07514822013) or text.
+Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter you can try by phone (07514822013) or text.
 
 
 ### Research
 
-some papers available [<i class="far fa-file-pdf"></i>](https://ucl.academia.edu/DouglasLavin)
+[<i class="far fa-file-pdf"></i>](https://ucl.academia.edu/DouglasLavin) some research papers available
 
 cv to appear...
 
