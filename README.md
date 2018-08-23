@@ -8,7 +8,7 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place)
 
-Office hours for term 3: Wednesday 1500-1600
+Office hours: tbd
 
 Schedule a graduate supervision meeting [<i class="far fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
 
@@ -27,7 +27,10 @@ cv to appear...
 
 ### Teaching
 
-In term 2 of 2017-18, I am teaching ethics (2047) and a graduate seminar on recent work in practical philosophy (G097). In term 3 I am not teaching any modules.
+I am on academic leave during in term 1 of 2018-19.
+
+
+<!-- In term 2 of 2017-18, I am teaching ethics (2047) and a graduate seminar on recent work in practical philosophy (G097). In term 3 I am not teaching any modules. -->
 
 <!-- In term 1 of 2017-18 I teach moral psychology (3097) and a seminar in action theory (G019). In term 2 I teach ethics (2047) and a seminar on practical reason (G097). -->
 
