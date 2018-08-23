@@ -40,4 +40,8 @@ I am on academic leave during in term 1 of 2018-19.
 <!-- [Link](url) and ![Image](src) -->
 
 
+### More
 
+A letter about Tom Fehse by Oded Na’aman [here](https://www.dropbox.com/s/lmk1qpyo0fasm8p/Letter%20about%20Tom%20Fehse.pdf?dl=0)
+
+<!-- the importance of philosophical community and the difficulties of philosophy -->
