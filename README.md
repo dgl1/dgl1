@@ -10,7 +10,7 @@ Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://ww
 
 Office hours: Tuesday, 16.00--17.00
 
-  - My apologies: I've been quite ill this week and have been unable to make it to my regularly scheduled office hourse. <sub><small>January 21-24</small></sub>
+  - My apologies: I've been ill this week and have been unable to make it to my regularly scheduled office hours. <sub><small>January 21-24</small></sub>
 
 Schedule a supervision here [<i class="far fa-calendar"></i>](https://www.supersaas.co.uk/schedule/DouglasLavin/SupervisionUCL) This is for graduate students and also for undergradutes writing honors theses with me. Sign-up as needed.
 
