@@ -8,9 +8,11 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place)
 
-Office hours: Tuesday, 16.00-17.00
+Office hours: Tuesday, 16.00--17.00
 
-Schedule a graduate supervision meeting [<i class="far fa-calendar"></i>](http://www.supersaas.com/schedule/DouglasLavin/SupervisionUCL)
+  - My apologies: I've been quite ill this week and have been unable to make it to my regularly scheduled office hourse. <sub><small>January 21-24</small></sub>
+
+Schedule a supervision here [<i class="far fa-calendar"></i>](https://www.supersaas.co.uk/schedule/DouglasLavin/SupervisionUCL) This is for graduate students and also for undergradutes writing honors theses with me. Sign-up as needed.
 
 Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter, you can telephone or better send an sms. <a href="tel:+7514822013"><i class="fas fa-mobile-alt"></i></a>
 
@@ -27,7 +29,7 @@ cv to appear...
 
 ### Teaching
 
-In term 2 of 2018-19, I am teaching Ethics (PHIL 2047) and Topics in Moral Psychology (PHIL 3097).
+In term 2 of 2018-19, I am teaching Ethics (PHIL0024) and Topics in Moral Psychology (PHIL0081).
 
 <!-- 
 I am on academic leave during in term 1 of 2018-19.
@@ -45,6 +47,4 @@ I am on academic leave during in term 1 of 2018-19.
 
 ### More
 
-A letter about Tom Fehse by Oded Na’aman [here](https://www.dropbox.com/s/lmk1qpyo0fasm8p/Letter%20about%20Tom%20Fehse.pdf?dl=0)
-
-<!-- the importance of philosophical community and the difficulties of philosophy -->
+A letter about Tom Fehse by Oded Na’aman [here](https://www.dropbox.com/s/lmk1qpyo0fasm8p/Letter%20about%20Tom%20Fehse.pdf?dl=0). It is about many things including the importance of philosophical community especially in light of the characteristic difficulties of doing philosophy from the heart.
