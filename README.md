@@ -4,13 +4,13 @@
 I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) at University College London where I have taught since 2015. Before coming to UCL, I was John L. Loeb Associate Professor of the Humanities at Harvard University. I earned my PhD in philosophy at the University of Pittsburgh. I work in practical philosophy, especially ethics, history of ethics and action theory.
 
 
-### Contact 
+### Contact  
 
 Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place)
 
-Office hours: Tuesday, 16.00--17.00
+Office hours: by appointment
 
-  - My apologies: I've been ill this week and have been unable to make it to my regularly scheduled office hours. <sub><small>January 21-24</small></sub>
+  <!-- - My apologies: I've been ill this week and have been unable to make it to my regularly scheduled office hours. <sub><small>January 21-24</small></sub> -->
 
 Schedule a supervision here [<i class="far fa-calendar"></i>](https://www.supersaas.co.uk/schedule/DouglasLavin/SupervisionUCL) This is for graduate students and also for undergradutes writing honors theses with me. Sign-up as needed.
 
@@ -29,7 +29,9 @@ cv to appear...
 
 ### Teaching
 
-In term 2 of 2018-19, I am teaching Ethics (PHIL0024) and Topics in Moral Psychology (PHIL0081).
+
+In term 1 of 2019-20, I'll be teaching a Research Seminar in Philosophy of Mind (PHIL0103), in term 2 Ethics (PHIL0024) and Topics in Moral Psychology (PHIL0081).
+
 
 <!-- 
 I am on academic leave during in term 1 of 2018-19.
