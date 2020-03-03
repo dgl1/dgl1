@@ -8,13 +8,15 @@ I am a Reader in the [philosophy department](https://www.ucl.ac.uk/philosophy/) 
 
 Office: room 3.4a, 33-35 Torrington Place [<i class="far fa-map"></i>](http://www.ucl.ac.uk/maps/33-35-torrington-place)
 
-Office hours: by appointment
+Office hours for Term 2: Tuesdays, 12:30-13:30
 
   <!-- - My apologies: I've been ill this week and have been unable to make it to my regularly scheduled office hours. <sub><small>January 21-24</small></sub> -->
 
 Schedule a supervision here [<i class="far fa-calendar"></i>](https://www.supersaas.co.uk/schedule/DouglasLavin/SupervisionUCL) This is for graduate students and also for undergradutes writing honors theses with me. Sign-up as needed.
 
-Save our inboxes! Use [email](mailto:d.lavin@ucl.ac.uk) only if all else has failed. Email is destroying us all...It really is: look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/). If I'm not in the office and there's an urgent matter, you can telephone or better send an sms. <a href="tel:+7514822013"><i class="fas fa-mobile-alt"></i></a>
+Email is one of several ways to contact me [email](mailto:d.lavin@ucl.ac.uk). When possible I'm happy to be contacted by [sms or telephone]<a href="tel:+7514822013"></a>.
+
+Save our inboxes! Email is not the efficient communication tool we'd all hoped for. Maybe it is, in fact, destroying us all...look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/).
 
 
 ### Research
