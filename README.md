@@ -14,8 +14,7 @@ Office hours for Term 2: Tuesdays, 12:30-13:30
 
 Schedule a supervision here [<i class="far fa-calendar"></i>](https://www.supersaas.co.uk/schedule/DouglasLavin/SupervisionUCL) This is for graduate students and also for undergradutes writing honors theses with me. Sign-up as needed.
 
-Email is one of several ways to contact me [email](mailto:d.lavin@ucl.ac.uk). When it's useful, I'm happy to be contacted by <a href="tel:+7514822013">[sms]</a> <i class="fa fa-mobile"></i>
-
+Email is one of several ways to contact me [email](mailto:d.lavin@ucl.ac.uk). When it's useful, I'm happy to be contacted by sms or mobile <a href="tel:+7514822013"><i class="far fa-mobile"></i></a>.
 
 
 Save our inboxes! Email is not the efficient communication tool we'd all hoped for. Maybe it is, in fact, destroying us all...look [here](http://www.emailcharter.org/) and [here](http://two.sentenc.es/).
