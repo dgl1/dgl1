@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 // NEW: REDIRECT TO FOG (7 Seconds)
                 setTimeout(() => {
-                    window.location.href = "https://formlessfog.org";
+                    window.location.href = "https://www.formlessfog.org/";
                 }, 9260); 
             });
         });
