@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">email: lavin@mailbox.org</p>
             <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">sms: 07514822013</p>
             
-            <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(Redirecting to the fog in 9 seconds...)</p>
+            <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(redirecting in 9 seconds...)</p>
         </div>
     `;
     document.body.prepend(backgroundLayer);
