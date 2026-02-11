@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">email: [lavin@mailbox.org]</p>
             <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">sms: [+447514822013]</p>
             
-            <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(Redirecting to the fog in 7 seconds...)</p>
+            <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(redirecting in 9 seconds...)</p>
         </div>
     `;
     document.body.prepend(backgroundLayer);
@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 // NEW: REDIRECT TO FOG (7 Seconds)
                 setTimeout(() => {
                     window.location.href = "https://formlessfog.org";
-                }, 7000); 
+                }, 9260); 
             });
         });
     }
