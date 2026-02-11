@@ -1,29 +1,38 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-    // --- 1. SETUP THE "NEW REALITY" (Hidden Background) ---
+    // --- 1. LOAD THE FONT (NEW: IBM Plex Mono) ---
+    // We inject this link so the browser downloads the font immediately
+    const fontLink = document.createElement('link');
+    fontLink.rel = 'stylesheet';
+    fontLink.href = 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400&display=swap';
+    document.head.appendChild(fontLink);
+
+    // --- 2. SETUP THE "NEW REALITY" ---
     const backgroundLayer = document.createElement('div');
     backgroundLayer.id = 'formless-contact';
     backgroundLayer.style.cssText = `
         position: fixed; top: 0; left: 0; width: 100%; height: 100%;
         display: flex; flex-direction: column; justify-content: center; align-items: center;
         background: #fff; z-index: 0; text-align: center;
-        font-family: 'Courier New', Courier, monospace; color: #111;
+        /* NEW: Using IBM Plex Mono */
+        font-family: 'IBM Plex Mono', monospace; 
+        color: #111;
     `;
     
     // !!! EDIT THIS SECTION WITH YOUR REAL INFO !!!
     backgroundLayer.innerHTML = `
         <div style="max-width: 600px; padding: 20px;">
-            <h2 style="font-weight: normal; letter-spacing: 3px; margin-bottom: 30px; font-size: 1.5rem;">DOUGLAS LAVIN</h2>
+            <h2 style="font-weight: 300; letter-spacing: 2px; margin-bottom: 30px; font-size: 1.5rem;">douglas lavin</h2>
             
-            <p style="margin: 8px 0; font-size: 1rem;">email: [lavin@mailbox.org]</p>
-            <p style="margin: 8px 0; font-size: 1rem;">sms: [+447514822013]</p>
+            <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">email: [lavin@mailbox.org]</p>
+            <p style="margin: 8px 0; font-size: 1rem; font-weight: 400;">sms: [+447514822013]</p>
             
             <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(Redirecting to the fog in 7 seconds...)</p>
         </div>
     `;
     document.body.prepend(backgroundLayer);
 
-    // --- 2. TARGET THE CONTENT ---
+    // --- 3. TARGET THE CONTENT ---
     const content = document.querySelector('.wrapper') || document.querySelector('section') || document.body.children[1];
     
     if(content) {
@@ -38,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
              content.style.transform = `translate(${Math.random() - 0.5}px, ${Math.random() - 0.5}px)`;
         });
 
-        // --- 3. THE TRIGGER ---
+        // --- 4. THE TRIGGER ---
         content.addEventListener('click', function(e) {
             if(content.classList.contains('exploding')) return;
             content.classList.add('exploding');
@@ -47,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function() {
             try {
                 const audio = new Audio('assets/audio/shatter.mp3');
                 audio.volume = 0.8;
-                audio.play().catch(e => console.log("Audio silent/missing"));
+                audio.play().catch(e => console.log("Audio silent"));
             } catch(err) { }
 
             // CAPTURE & STORM
@@ -67,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 document.body.appendChild(container);
 
                 // PIXEL STORM SETTINGS
-                const density = 20; // 20x20 grid (400 particles)
+                const density = 20; 
                 const width = canvas.width / density;
                 const height = canvas.height / density;
 
@@ -104,10 +113,10 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 }
 
-                // REDIRECT TO FOG (Fixed HTTPS & Time)
+                // NEW: REDIRECT TO FOG (7 Seconds)
                 setTimeout(() => {
                     window.location.href = "https://formlessfog.org";
-                }, 7000); // 7 seconds
+                }, 7000); 
             });
         });
     }
