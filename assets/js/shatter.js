@@ -13,16 +13,17 @@ document.addEventListener("DOMContentLoaded", function() {
     // !!! EDIT THIS SECTION WITH YOUR REAL INFO !!!
     backgroundLayer.innerHTML = `
         <div style="max-width: 600px; padding: 20px;">
-            <h2 style="font-weight: normal; letter-spacing: 4px; margin-bottom: 40px; font-size: 2rem;">DOUGLAS LAVIN</h2>
-            <p style="margin: 10px 0; font-size: 1.2rem;">email: [Your Email Here]</p>
-            <p style="margin: 10px 0; font-size: 1.2rem;">sms: [Your Phone Number]</p>
-            <p style="margin-top: 40px; font-size: 0.8rem; color: #999;">(Redirecting to the fog in 12 seconds...)</p>
+            <h2 style="font-weight: normal; letter-spacing: 3px; margin-bottom: 30px; font-size: 1.5rem;">DOUGLAS LAVIN</h2>
+            
+            <p style="margin: 8px 0; font-size: 1rem;">email: [lavin@mailbox.org]</p>
+            <p style="margin: 8px 0; font-size: 1rem;">sms: [+447514822013]</p>
+            
+            <p style="margin-top: 40px; font-size: 0.75rem; color: #999;">(Redirecting to the fog in 7 seconds...)</p>
         </div>
     `;
     document.body.prepend(backgroundLayer);
 
     // --- 2. TARGET THE CONTENT ---
-    // We try to grab the specific wrapper, or fallback to the second body element
     const content = document.querySelector('.wrapper') || document.querySelector('section') || document.body.children[1];
     
     if(content) {
@@ -32,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
         content.style.minHeight = '100vh'; 
         content.style.transition = 'transform 0.1s';
         
-        // Tremble effect on mouseover
+        // Tremble effect
         content.addEventListener('mousemove', () => {
              content.style.transform = `translate(${Math.random() - 0.5}px, ${Math.random() - 0.5}px)`;
         });
@@ -42,11 +43,11 @@ document.addEventListener("DOMContentLoaded", function() {
             if(content.classList.contains('exploding')) return;
             content.classList.add('exploding');
 
-            // AUDIO (Placeholder: Will fail silently if file is missing)
+            // AUDIO
             try {
                 const audio = new Audio('assets/audio/shatter.mp3');
                 audio.volume = 0.8;
-                audio.play().catch(e => console.log("Audio not ready yet"));
+                audio.play().catch(e => console.log("Audio silent/missing"));
             } catch(err) { }
 
             // CAPTURE & STORM
@@ -66,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 document.body.appendChild(container);
 
                 // PIXEL STORM SETTINGS
-                const density = 20; // 20x20 grid = 400 particles (Best balance of Klee-visuals vs Performance)
+                const density = 20; // 20x20 grid (400 particles)
                 const width = canvas.width / density;
                 const height = canvas.height / density;
 
@@ -80,41 +81,33 @@ document.addEventListener("DOMContentLoaded", function() {
                         shard.style.left = (x * width) + 'px';
                         shard.style.top = (y * height) + 'px';
                         
-                        // Physics: "Swarm" style
-                        // Random delay (stagger) creates the fluid feeling
+                        // Physics: Swarm
                         const duration = 1.5 + Math.random(); 
-                        shard.style.transition = `transform ${duration}s cubic-bezier(0.1, 0.9, 0.2, 1)`; // "Pop" out then slow down
+                        shard.style.transition = `transform ${duration}s cubic-bezier(0.1, 0.9, 0.2, 1)`; 
                         
                         const ctx = shard.getContext('2d');
                         ctx.drawImage(canvas, x * width, y * height, width, height, 0, 0, width, height);
                         container.appendChild(shard);
 
-                        // --- CALCULATE SCATTER TRAJECTORY ---
-                        
-                        // 1. Explode OUT from center
+                        // Physics: Scatter
                         const centerX = canvas.width / 2;
                         const distX = (x * width) - centerX;
-                        const spreadX = distX * (1 + Math.random() * 2); // Blow outward
+                        const spreadX = distX * (1 + Math.random() * 2); 
                         
-                        // 2. Fall DOWN to floor
                         const floor = window.innerHeight;
-                        const landY = floor - (Math.random() * 200) - 50; // Debris pile at bottom
-
-                        // 3. Rotate wildly
+                        const landY = floor - (Math.random() * 200) - 50; 
                         const rotate = (Math.random() - 0.5) * 720; 
 
-                        // Trigger animation next frame
                         requestAnimationFrame(() => {
                             shard.style.transform = `translate3d(${spreadX}px, ${landY - (y*height)}px, 0) rotate(${rotate}deg)`;
-                            // NO FADE OUT. DEBRIS REMAINS.
                         });
                     }
                 }
 
-                // REDIRECT TO FOG
+                // REDIRECT TO FOG (Fixed HTTPS & Time)
                 setTimeout(() => {
-                    window.location.href = "http://formlessfog.org";
-                }, 12000); 
+                    window.location.href = "https://formlessfog.org";
+                }, 7000); // 7 seconds
             });
         });
     }
